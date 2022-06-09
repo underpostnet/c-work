@@ -1,0 +1,6 @@
+
+
+`cl hello.c`
+
+
+`hello`
