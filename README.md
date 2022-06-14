@@ -1,7 +1,1 @@
-# C# | Testing
-
-
-csc *.cs
-
-
-cmd ->file.exe
+### install visual studio build tools
